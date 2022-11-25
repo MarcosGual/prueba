@@ -1,3 +1,5 @@
 ## SERVIDOR CON TYPESCRIPT
 
-#### Pasos
+### Pasos
+
+#### 1. Instalar typescript a nivel global (npm i -g typescript)
